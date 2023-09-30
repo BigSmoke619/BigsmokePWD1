@@ -1,0 +1,56 @@
+#imgmin {
+    height: 150px;
+    border-radius: 50%
+}
+
+#h1main {
+    font-family: 'Satisfy', cursive;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+#h2main {
+    font-size: 40px;
+}
+
+#divmain {
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+#bg {
+    background-color: rgb(204, 255, 255);
+    /*background-image: url(./resources/photos/hand-painted-watercolor-background-with-sky-clouds-shape.jpg);*/
+}
+
+#headerh1 {
+    font-family: 'Satisfy', cursive;
+}
+
+#features {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#skills {
+    font-family: 'Caveat', cursive;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+#skillimg img {
+    border-radius: 50%;
+    height: 140px;
+}
+
+#projects {
+    font-family: 'Caveat', cursive;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+#work {
+    text-decoration: underline;
+}
